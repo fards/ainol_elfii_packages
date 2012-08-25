@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2010 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+<!-- AppsCustomize -->
+    
+
+<!-- Workspace -->
+		<dimen name="workspace_margin_left">0dp</dimen>
+    <dimen name="workspace_margin_top">100dp</dimen>
+    
+    <dimen name="workspace_width_gap">0dp</dimen>
+    <dimen name="workspace_height_gap">36dp</dimen>
+    
+    <!-- AppsCustomize -->
+    <integer name="apps_customize_app_cell_count_x">4</integer>
+    <integer name="apps_customize_app_cell_count_y">6</integer>
+    
+</resources>

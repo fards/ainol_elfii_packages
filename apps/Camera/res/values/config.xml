@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<bool name="config_wheel_enable">true</bool>
+<bool name="config_cmaeratips_enable">true</bool>
+<bool name="TabletUsePhoneUI">false</bool>
+<integer name="MinControlBarWidth">0</integer>
+</resources>
